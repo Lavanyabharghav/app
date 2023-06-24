@@ -81,7 +81,7 @@
            System.out.print("0");    
       }    
       j--;    
-       System.out.print("*");    
+       System.out.print("*");   vdhbjkvfvkjfhvgjvdkjvhadjfldbajfhdhvhdjgugd 
       while(j>=1){// this loop is used to print * in a line    
           if(i==j)    
            System.out.print("*");    
